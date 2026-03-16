@@ -50,8 +50,6 @@
 
 ---
 
----
-
 ## <img src="https://img.icons8.com/color/48/000000/education.png" width="30" height="30"/> Formación Académica
 
 - 🎓 **Analista Programador** - DUOC UC, Viña del Mar (2025–2028, en curso)

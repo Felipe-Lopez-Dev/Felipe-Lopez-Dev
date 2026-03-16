@@ -37,9 +37,9 @@
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| **Bot de trading en C++ para Binance Futures** | Bot automatizado para operar en futuros de Binance, con estrategias programadas en C++. | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B) ![Binance](https://img.shields.io/badge/-Binance-F0B90B?style=flat-square&logo=binance) |
-| **Automatización de documentos con Word y Excel** | Generación automatizada de documentos a partir de plantillas Word y datos Excel, usando pandas y Flet para interfaz gráfica. | ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas) ![Flet](https://img.shields.io/badge/-Flet-008080?style=flat-square) |
-| **Sistema de inventario con API** | API RESTful para gestión de inventario desarrollada con FastAPI y base de datos PostgreSQL. | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) |
+| [**Bot de trading en C++ para Binance Futures**](https://github.com/Felipe-Lopez-Dev/Trading-bot) | Bot automatizado para operar en futuros de Binance, con estrategias programadas en C++. | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B) |
+| [**Automatización de documentos con Word y Excel**](https://github.com/Felipe-Lopez-Dev/Automatizacion_plantilla_excel) | Generación automatizada de documentos a partir de plantillas Word y datos Excel, usando pandas y Flet para interfaz gráfica. | ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas) ![Flet](https://img.shields.io/badge/-Flet-008080?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| [**Sistema de inventario con API**](https://github.com/Felipe-Lopez-Dev/sistema-inventario) | API RESTful para gestión de inventario desarrollada con FastAPI y base de datos PostgreSQL. | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 </details>
 
 ---

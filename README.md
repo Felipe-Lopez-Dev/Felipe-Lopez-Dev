@@ -30,8 +30,6 @@
 
 ## <img src="https://img.icons8.com/color/48/000000/project.png" width="30" height="30"/> Proyectos Destacados
 
-<details>
-<summary>📊 Ver proyectos (click para expandir)</summary>
 
 <br/>
 
@@ -41,7 +39,7 @@
 | [**Automatización de documentos con Word y Excel**](https://github.com/Felipe-Lopez-Dev/Automatizacion_plantilla_excel) | Generación automatizada de documentos a partir de plantillas Word y datos Excel, usando pandas y Flet para interfaz gráfica. | ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas) ![Flet](https://img.shields.io/badge/-Flet-008080?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 | [**Sistema de inventario con API**](https://github.com/Felipe-Lopez-Dev/sistema-inventario) | API RESTful para gestión de inventario desarrollada con FastAPI y base de datos PostgreSQL. | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 | [**Analizador de Mercado**](https://github.com/Felipe-Lopez-Dev/analisis-mercados) | Aplicación para analizar para principales activos financieros del mundo. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
-</details>
+
 
 ---
 

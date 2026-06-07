@@ -46,6 +46,9 @@
         <br><br>
         <h5>Curso de herramientas de IA</h5>
         <img src="certificado-ia_page_001.png" width="95%">
+        <h5>Certificacion en Srum Master</h5>
+        <img src="scrummaster.png" width="95%">
+        
       </td>
     </tr>
   </table>

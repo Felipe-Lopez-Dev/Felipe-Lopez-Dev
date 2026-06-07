@@ -47,7 +47,7 @@
         <img src="certificado-python_page_001.png" width="95%">
         <br><br>
         <h5>Curso de herramientas de IA</h5>
-        <img src="certificado-ia_001.png" width="95%">
+        <img src="certificado-ia_page_001.png" width="95%">
       </td>
     </tr>
   </table>

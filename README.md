@@ -30,6 +30,7 @@
 
 ## <img src="https://img.icons8.com/color/48/000000/project.png" width="30" height="30"/> Proyectos Destacados
 
+<embed type="application/pdf" src="Certificate-Felipe-LopezCarvajal.pdf">
 
 <br/>
 

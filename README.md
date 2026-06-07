@@ -1,9 +1,9 @@
 
 <h1 align="center">____Felipe_Lopez_Carvajal___():</h1><br>
-<div style="margin: 20%; display: flex; width: 50%;">
-  <h3 style="flex: 1;">Srum Master()</h3>
-  <h3 style="flex: 1;">Estudiante de Analista Programador()</h3>
-  <h3 style="flex: 1;">Certificado en Machine Learning()</h3>
+<div style="margin: 20px; display: flex; gap: 20px; justify-content: center;">
+  <h3 style="margin: 0;">Srum Master()</h3>
+  <h3 style="margin: 0;">Estudiante de Analista Programador()</h3>
+  <h3 style="margin: 0;">Certificado en Machine Learning()</h3>
 </div>
 
   

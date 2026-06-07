@@ -27,7 +27,7 @@
 </p>
 
 ---
-<embed type="application/pdf" src="https://github.com/Felipe-Lopez-Dev/Felipe-Lopez-Dev/blob/main/Certificate-Felipe-LopezCarvajal.pdf">
+<embed src="nombre_del_archivo.pdf" type="application/pdf">
 
 ## <img src="https://img.icons8.com/color/48/000000/project.png" width="30" height="30"/> Proyectos Destacados
 

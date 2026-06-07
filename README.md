@@ -3,8 +3,8 @@
 
 <div style="display: flex; flex-direction: row; justify-content: center; gap: 30px; flex-wrap: wrap;">
   <h3 style="margin: 0;">Estudiante de Analista Programador()</h3>
-  <h3 aling="center" style="margin: 0;">Certificado en Machine Learning()</h3>
-  <h3 align="rigth" style="margin: 0;">Srum Master()</h3>
+  <h3 align="center" style="margin: 0;">Certificado en Machine Learning()</h3>
+  <h3 align="right" style="margin: 0;">Srum Master()</h3>
 </div>
 
   

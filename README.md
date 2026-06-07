@@ -1,8 +1,9 @@
-<h1 align="center">Felipe López Carvajal</h1>
+
 <div>
-  <h2 align="left">____Estudiante_de_Analista_Programador___():</h2><br>
-  <h3 aling="center">Srum Master()</h3>
-  <h2 aling="center">Certificado en Machine Learning()</h2>
+  <h1 align="center">____Felipe_Lopez_Carvajal___():</h2><br>
+  <h3 aling="center">      Srum Master()</h3>
+  <h3 aling="center">      Estudiante de Analista Programador()</h3>
+  <h3 aling="center">      Certificado en Machine Learning()</h3>
   
 </div>
 

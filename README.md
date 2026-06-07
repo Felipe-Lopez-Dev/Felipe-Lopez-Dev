@@ -30,6 +30,8 @@
 ## <img src="https://img.icons8.com/color/48/000000/project.png" width="30" height="30"/> Certificados
 <h4 style="text-align: center">Certificación en IA principalmente enfocada en ML(Machine Learning)</h4>
 <img src="Certificado-ia.png" width="45%"/>
+<h4 style="text-align: center">Certificación en IA principalmente enfocada en ML(Machine Learning)</h4>
+<img src="" width="45%"/>
 
 ## <img src="https://img.icons8.com/color/48/000000/project.png" width="30" height="30"/> Proyectos Destacados
 

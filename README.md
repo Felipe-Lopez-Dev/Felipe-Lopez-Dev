@@ -27,7 +27,7 @@
 </p>
 
 ---
-<embed src="Certificate-Felipe-LopezCarvajal.pdf" type="application/pdf"></embed>
+<embed src="Certificate-Felipe-LopezCarvajal.pdf" type="application/pdf"/>
 
 ## <img src="https://img.icons8.com/color/48/000000/project.png" width="30" height="30"/> Proyectos Destacados
 

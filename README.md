@@ -27,7 +27,7 @@
 </p>
 
 ---
-<img src="Certificado-ia.png"/>
+<img src="Certificado-ia.png" width="45%"/>
 
 ## <img src="https://img.icons8.com/color/48/000000/project.png" width="30" height="30"/> Proyectos Destacados
 

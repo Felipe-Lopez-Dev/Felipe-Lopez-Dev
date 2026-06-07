@@ -1,7 +1,15 @@
 <h1 align="center">Felipe López Carvajal</h1>
 
-<h2 align="center">|____Estudiante_de_Analista_Programador___():</h2><br>
+<h2 align="left">____Estudiante_de_Analista_Programador___():</h2><br>
+<h2 aling="center">Srum Master()</h2>
+<h2 aling="center">Certificado en Machine Learning()</h2>
+
   
+## <img src="https://img.icons8.com/color/48/000000/user-male-circle.png" width="30" height="30"/> Perfil Profesional
+
+> Estudiante de Analista Programador en DUOC UC (2025–2028) con manejo de tecnologias modernas. Destaco por mi precisión, aprendizaje autónomo, orden y capacidad de trabajo bajo presión. Busco integrarme a una organización con proyección en tecnología.
+
+---
 
 ## <img src="https://img.icons8.com/color/48/000000/engineering.png" width="30" height="30"/> Habilidades Técnicas
 
@@ -70,11 +78,6 @@
 
 ---
 
-## <img src="https://img.icons8.com/color/48/000000/user-male-circle.png" width="30" height="30"/> Perfil Profesional
-
-> Estudiante de Analista Programador en DUOC UC (2025–2028) con manejo de tecnologias modernas. Destaco por mi precisión, aprendizaje autónomo, orden y capacidad de trabajo bajo presión. Busco integrarme a una organización con proyección en tecnología.
-
----
 
 ## <img src="https://img.icons8.com/color/48/000000/education.png" width="30" height="30"/> Formación Académica
 

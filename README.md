@@ -27,7 +27,7 @@
 </p>
 
 ---
-## <img src="https://img.icons8.com/color/48/000000/project.png" width="30" height="30"/> Certificados
+
 <div align="center">
   <h2>📜 Certificados</h2>
   <br>
@@ -37,23 +37,23 @@
       <td style="width: 50%; vertical-align: top; padding: 10px; border: none;">
         <div align="center">
           <h5>Certificación en IA principalmente enfocada en ML (Machine Learning)</h5>
-          <img src="Certificado-ia.png" width="90%" style="max-width: 400px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
+          <img src="Certificado-ia.png" width="50%" style="max-width: 400px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
           <br><br>
           <h5>Curso de Desarrollo de Software con IA</h5>
-          <img src="certificado-desarrollo-con-ia.png" width="90%" style="max-width: 400px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
+          <img src="certificado-desarrollo-con-ia.png" width="50%" style="max-width: 400px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
           <br><br>
           <h5>Curso de PowerBI</h5>
-          <img src="certificado-powerbi_page_001.png" width="90%" style="max-width: 400px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
+          <img src="certificado-powerbi_page_001.png" width="50%" style="max-width: 400px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
         </div>
       </td>
       <!-- Columna 2 -->
       <td style="width: 50%; vertical-align: top; padding: 10px; border: none;">
         <div align="center">
           <h5>Curso de Python (skills de automatización y visión por computadora)</h5>
-          <img src="certificado-python_page_001.png" width="90%" style="max-width: 400px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
+          <img src="certificado-python_page_001.png" width="50%" style="max-width: 400px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
           <br><br>
           <h5>Curso de herramientas de IA</h5>
-          <img src="certificado-ia_001.png" width="90%" style="max-width: 400px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
+          <img src="certificado-ia_001.png" width="50%" style="max-width: 400px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
         </div>
       </td>
     </tr>

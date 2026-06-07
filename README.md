@@ -1,10 +1,10 @@
 
   <h1 align="center">____Felipe_Lopez_Carvajal___():</h1><br>
 <div style="margin: 20%" width="50%" style="display: inline-block">
-  <h3 align="end">Srum Master()</h3>
-  <h3 align="end">Estudiante de Analista Programador()</h3>
-  <h3 align="end">Certificado en Machine Learning()</h3>
-</div>
+  <h3>Srum Master()</h3>
+  <h3>Estudiante de Analista Programador()</h3>
+  <h3>Certificado en Machine Learning()</h3>
+
 
   
 ## <img src="https://img.icons8.com/color/48/000000/user-male-circle.png" width="30" height="30"/> Perfil Profesional

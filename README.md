@@ -1,9 +1,9 @@
 
 <div>
   <h1 align="center">____Felipe_Lopez_Carvajal___():</h2><br>
-  <h3 aling="center">      Srum Master()</h3>
-  <h3 aling="center">      Estudiante de Analista Programador()</h3>
-  <h3 aling="center">      Certificado en Machine Learning()</h3>
+  <h3 align="center">      Srum Master()</h3>
+  <h3 align="center">      Estudiante de Analista Programador()</h3>
+  <h3 align="center">      Certificado en Machine Learning()</h3>
   
 </div>
 

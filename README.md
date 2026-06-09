@@ -69,7 +69,7 @@
         <h5>Curso de Python<br>(automatización y visión)</h5>
         <img src="certificado-python_page_001.png" width="95%">
          <br><br>
-        <h5>Certificación Profesional en<br>Concienciación sobre Ciberseguridad(automatización y visión)</h5>
+        <h5>Certificación Profesional en<br>Concienciación sobre Ciberseguridad</h5>
         <img src="certificado-ciberseguridad.png" width="95%">
         <br><br>
         <h5>Curso de herramientas de IA</h5>

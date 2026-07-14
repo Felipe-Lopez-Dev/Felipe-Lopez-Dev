@@ -86,7 +86,7 @@
         <img src="certificado-python_page_001.png" width="95%">
          <br><br>
         <h5>Certificación IA de Google</h5>
-        <img src="Ia_Goole.png" width="95%">
+        <img src="Ia_Google.png" width="95%">
         <br><br>
         <h5>Certificación Profesional en<br>Concienciación sobre Ciberseguridad</h5>
         <img src="certificado-ciberseguridad.png" width="95%">

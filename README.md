@@ -93,6 +93,7 @@
       </td>
     </tr>
   </table>
+  <a href="https://staticfile-b8213.wasmer.app/">Todos los certificados</a>
 </div>
 
 

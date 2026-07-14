@@ -69,6 +69,9 @@
   <table width="100%" cellpadding="10" cellspacing="0" border="0">
     <tr>
       <td width="50%" valign="top" align="center">
+        <h5>Certificación Profesional de<br> Ciberseguridad de Google</h5>
+        <img src="Google_cibersecurity.png" width="95%">
+        <br><br>
         <h5>Certificación en IA<br>enfocada en ML</h5>
         <img src="Certificado-ia.png" width="95%">
         <br><br>

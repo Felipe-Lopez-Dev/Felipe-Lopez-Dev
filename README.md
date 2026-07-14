@@ -2,8 +2,8 @@
 <h1 align="center">____Felipe_Lopez_Carvajal___():</h1>
 
 <div style="display: flex; flex-direction: row; justify-content: center; gap: 30px; flex-wrap: wrap;">
-  <h3 style="margin: 0;">Srum Master()</h3>
-  <h3 align="center" style="margin: 0;">Certificado en Machine Learning()</h3>
+  <h3 style="margin: 0;">Certificado en ML y Ciberseguridad()</h3>
+  <h3 align="center" style="margin: 0;">Metodologías Ágiles()</h3>
   <h3 align="right" style="margin: 0;">Estudiante de Analista Programador()</h3>
 </div>
 
@@ -85,6 +85,9 @@
         <h5>Curso de Python<br>(automatización y visión)</h5>
         <img src="certificado-python_page_001.png" width="95%">
          <br><br>
+        <h5>Certificación IA de Google</h5>
+        <img src="Ia_Goole.png" width="95%">
+        <br><br>
         <h5>Certificación Profesional en<br>Concienciación sobre Ciberseguridad</h5>
         <img src="certificado-ciberseguridad.png" width="95%">
         <br><br>

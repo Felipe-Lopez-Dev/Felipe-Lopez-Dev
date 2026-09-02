@@ -14,6 +14,8 @@
 
 ---
 
+<a href="https://felipelopezdev.wasmer.app/" style="border: 2px solid black">Sitio web</a>
+
 ## <img src="https://img.icons8.com/color/48/000000/engineering.png" width="30" height="30"/> Habilidades Técnicas
 
 <p align="center">
@@ -99,7 +101,9 @@
       </td>
     </tr>
   </table>
-  <a href="https://staticfile-b8213.wasmer.app/">Todos los certificados</a>
+  <a href="https://felipelopezdev.wasmer.app/" target="_blank">
+    <button>Sitio web</button>
+  </a>
 </div>
 
 

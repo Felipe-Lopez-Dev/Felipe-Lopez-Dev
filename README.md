@@ -13,10 +13,10 @@
 > Estudiante de Analista Programador en DUOC UC (2025–2028) con manejo de tecnologias modernas. Destaco por mi precisión, aprendizaje autónomo, orden y capacidad de trabajo bajo presión. Busco integrarme a una organización con proyección en tecnología.
 
 ---
-
-<a href="https://felipelopezdev.wasmer.app/" style="border: 2px solid black">
-  <button>Sitio web</button>
-</a>
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;width: 100%;">
+  <a href="https://felipelopezdev.wasmer.app/">Sitio web</a>
+  <a style="margin-left: auto;" href="https://staticfile-b8213.wasmer.app/">Todos los certificados</a>
+</div>
 
 ## <img src="https://img.icons8.com/color/48/000000/engineering.png" width="30" height="30"/> Habilidades Técnicas
 
@@ -103,9 +103,7 @@
       </td>
     </tr>
   </table>
-  <a href="https://felipelopezdev.wasmer.app/" target="_blank">
-    <button>Sitio web</button>
-  </a>
+  
 </div>
 
 

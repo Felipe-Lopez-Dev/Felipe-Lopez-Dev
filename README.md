@@ -14,7 +14,9 @@
 
 ---
 
-<a href="https://felipelopezdev.wasmer.app/" style="border: 2px solid black">Sitio web</a>
+<a href="https://felipelopezdev.wasmer.app/" style="border: 2px solid black">
+  <button>Sitio web</button>
+</a>
 
 ## <img src="https://img.icons8.com/color/48/000000/engineering.png" width="30" height="30"/> Habilidades Técnicas
 

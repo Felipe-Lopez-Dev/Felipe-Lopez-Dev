@@ -2,7 +2,7 @@
 <h1 align="center">____Felipe_Lopez_Carvajal___():</h1>
 
 <div style="display: flex; flex-direction: row; justify-content: center; gap: 30px; flex-wrap: wrap;">
-  <h3 style="margin: 0;">Certificado en ML y Ciberseguridad()</h3>
+  <h3 style="margin: 0;">Certificado en IA y Ciberseguridad()</h3>
   <h3 align="center" style="margin: 0;">Metodologías Ágiles()</h3>
   <h3 align="right" style="margin: 0;">Estudiante de Analista Programador()</h3>
 </div>
@@ -10,7 +10,7 @@
   
 ## <img src="https://img.icons8.com/color/48/000000/user-male-circle.png" width="30" height="30"/> Perfil Profesional
 
-> Estudiante de Analista Programador en DUOC UC (2025–2028) con manejo de tecnologias modernas. Destaco por mi precisión, aprendizaje autónomo, orden y capacidad de trabajo bajo presión. Busco integrarme a una organización con proyección en tecnología.
+> Profesional en formacion con manejo de tecnologías modernas. Destaco por mi precisión, aprendizaje autónomo, orden y capacidad de trabajo bajo presión. Busco integrarme a una organización con proyección en tecnología.
 
 ---
 
@@ -76,6 +76,8 @@
         <h5>Certificación Profesional de<br> Ciberseguridad de Google</h5>
         <img src="Google_cibersecurity.png" width="95%">
         <br><br>
+        <h5>Certificacion en IA(deep-learning)</h5>
+        <img src="certiprof-deep-learning.png" width="95%">
         <h5>Certificación en IA<br>enfocada en ML</h5>
         <img src="Certificado-ia.png" width="95%">
         <br><br>
@@ -88,8 +90,13 @@
       <td width="50%" valign="top" align="center">
         <h5>Curso de Python<br>(automatización y visión)</h5>
         <img src="certificado-python_page_001.png" width="95%">
-         <br><br>
-        <h5>Certificación IA de Google</h5>
+        <br><br>
+        <h5>Certificacion en Hacking Ético</h5>
+        <img src="certiprof-ethical-hacking.png" width="95%">
+        <h5>Curso de Python<br>(automatización y visión)</h5>
+        <img src="certificado-python_page_001.png" width="95%">
+        <br><br>
+        <h5>Certificación IA Essentials de Google</h5>
         <img src="Ia_Google.png" width="95%">
         <br><br>
         <h5>Certificación Profesional en<br>Concienciación sobre Ciberseguridad</h5>
@@ -97,8 +104,7 @@
         <br><br>
         <h5>Curso de herramientas de IA</h5>
         <img src="certificado-ia_page_001.png" width="95%">
-        <h5>Certificacion en Srum Master</h5>
-        <img src="scrummaster.png" width="95%">
+        
         
       </td>
     </tr>
